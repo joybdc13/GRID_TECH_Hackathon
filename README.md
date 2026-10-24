@@ -6,7 +6,7 @@ A team project for the GridTech Hackathon: a decision-support tool for comparing
 
 ## Living product specification
 
-The team product and methodology specification is maintained in Google Docs so teammates can edit it collaboratively. The [living specification and access workflow](docs/WORKING_SPEC.md) link to the canonical document; this repository keeps implementation and release artifacts.
+The team product and methodology specification is maintained in Google Docs so teammates can edit it collaboratively. The [living specification and access workflow](docs/WORKING_SPEC.md) link to the canonical document; this repository keeps implementation and release artifacts. The [integrated build handoff](docs/APP_BUILD_HANDOFF.md) combines the backend and front-end requirements, with backend validation first and dashboard integration afterward.
 
 ## What we are building
 
