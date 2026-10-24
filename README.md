@@ -4,6 +4,10 @@ A team project for the GridTech Hackathon: a decision-support tool for comparing
 
 > **Project status (updated 2026-10-24):** The repository currently contains the hackathon brief, benchmark packet, scoring rubric, and setup guidance. The app, recommendation engine, dispatch model, and generated results have not yet been implemented. This README is a living guide and should be updated as those pieces are built.
 
+## Living product specification
+
+The team product and methodology specification is maintained in Google Docs so teammates can edit it collaboratively. The [living specification and access workflow](docs/WORKING_SPEC.md) link to the canonical document; this repository keeps implementation and release artifacts.
+
 ## What we are building
 
 The planned product will help a customer express energy priorities, compare feasible portfolios, and understand their trade-offs. It should make the reasoning visible: what requirements were applied, why resources were selected, how the portfolio responds during grid-stress periods, and what the choice means for cost and emissions.
